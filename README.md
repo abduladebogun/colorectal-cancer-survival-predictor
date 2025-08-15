@@ -14,8 +14,6 @@
 - [Kaggle Submission Format](#kaggle-submission-format)
 - [Folder Structure](#folder-structure)
 - [Tools & Libraries](#tools--libraries)
-- [How to Run](#how-to-run)
-- [Results & Discussion](#results--discussion)
 - [Author](#author)
 - [License](#license)
 
