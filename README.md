@@ -37,7 +37,7 @@ Develop a machine learning classification model to **predict whether a patient w
 
 ## 🗃️ Dataset Description
 
-You are provided with two datasets:
+You are provided with three datasets:
 
 - `patient_train_data.csv`: Training data with features and survival labels.
 - `patient_test_data.csv`: Test data with features only.
@@ -110,27 +110,6 @@ The submission file must be a CSV in the following format:
 - Google Colab
 
 ---
-
-## ▶️ How to Run
-
-1. Clone this repository  
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-3. Launch the notebook:
-   ```bash
-   jupyter notebook notebooks/survival_modeling.ipynb
-4. To generate submission:
-   ```bash
-   python generate_submission.py  # if script created
-
----
-
-## 📈 Results & Discussion
-
-Best Model: Random Forest Classifier
-Validation Weighted F1-Score: 0.XX
-Top Features: Cancer Stage, Tumor Size, Genetic Mutation, Early Detection, Screening History
 
 ## 🙋 Author
 Name: AbdulQudus Adebogun
